@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **System Design, Backend Architecture, and Advanced PostgreSQL**
 
--## 🏆 Achievements
+- ## 🏆 Achievements
 
 - Solved 310+ LeetCode Problems
 - Completed Striver's A2Z DSA Sheet

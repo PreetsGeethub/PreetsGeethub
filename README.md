@@ -26,13 +26,13 @@
 
 - ## 🚀 Featured Projects
 
-### [QuickDrive]([(https://github.com/PreetsGeethub/quickDrive])
+### [QuickDrive](https://github.com/PreetsGeethub/quickDrive)
 Secure File Storage & Sharing Platform
 
-### [VirtuCasa]([(https://www.virtucasa.in/])
+### [VirtuCasa]((https://www.virtucasa.in/)
 Production website built for a real interior design client.
 
-### [VideoTube Backend]([https://github.com/PreetsGeethub/backend])
+### [VideoTube Backend](https://github.com/PreetsGeethub/backend)
 RESTful backend with JWT authentication and CRUD operations.
 
 <h3 align="left">Connect with me:</h3>

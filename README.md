@@ -60,7 +60,7 @@ A secure cloud file-sharing platform with JWT-based per-folder access control.
 
 **Stack:** Node.js, Express, Prisma, PostgreSQL, Supabase, k6.
 
-### [Talk to Your Docs](https://github.com/PreetsGeethub)
+### Talk to Your Docs — Hybrid PDF RAG Assistant
 
 A hybrid PDF question-answering project using dense retrieval and BM25, Reciprocal Rank Fusion, and Cohere reranking. Retrieved passages are shown to help users verify generated answers.
 
